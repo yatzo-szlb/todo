@@ -12,4 +12,8 @@ MY TO-DO LIST
 10. Solve chess puzzles.
 11. Check exam schedule.
 12. most mivan
+<<<<<<< HEAD
 13. dsaadas
+=======
+13. dsasd
+>>>>>>> test
